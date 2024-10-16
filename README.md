@@ -17,7 +17,7 @@ This script uses **pychrome** to interact with the Chrome browser, executing Goo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/adsu13/recaptcha-bypassv3.git
+    git clone https://github.com/adsu13/recaptcha-bypass-v3.git
     cd recaptcha-bypass
     ```
 
